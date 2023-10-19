@@ -1,0 +1,10 @@
+package iphone.aparelhotelefonico;
+
+public interface TelefoneB {
+
+  void ligar(int numero);
+
+  void atender();
+
+  void iniciarCorreioVoz();
+}
